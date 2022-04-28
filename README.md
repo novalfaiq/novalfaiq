@@ -3,7 +3,6 @@ Hi 👋 My name is Nauval Faiq
 
 * 🌍  I'm based in Bali, Indonesia
 * ✉️  You can contact me at [novalfaiq12@gmail.com](mailto:novalfaiq12@gmail.com)
-* 🧠  Currently I'm learning PHP & Laravel
 
 ### Socials
 
