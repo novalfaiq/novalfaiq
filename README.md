@@ -1,7 +1,8 @@
 <h1>Hi, I'm Noval! 👋🏻</h1>
 
-<img align='right' src='./assets/gif/nothing-to-see-here.gif' width='210' />
-GIF by [antonella](https://pinterest.com/pin/160511174215935974/) on [Pinterest](https://www.pinterest.com/).
+<a href="https://pinterest.com/pin/160511174215935974/">
+  <img align='right' src='./assets/gif/nothing-to-see-here.gif' width='500' height='210'/>
+</a>
 
 ### Every Day Carry Weapon 🧰
 - `Laptop` - Lenovo ThinkPad T560
