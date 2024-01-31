@@ -1,3 +1,12 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=novalfaiq&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+<h1>Hi, I'm Noval! 👋🏻</h1>
+
+### Every Day Carry Weapon 🧰
+- `Laptop` - Lenovo ThinkPad T560
+  -  `CPU` - Intel® Core™ i5-6300U
+  -  `RAM` - 16GB
+  -  `GPU` - Intel® HD Graphics 520
+  -  `Operating System` - Windows 10 Pro 22H2
+  -  `Text Editor` - Visual Studio Code
+
+
+
