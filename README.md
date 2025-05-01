@@ -4,9 +4,9 @@
 
 
 ### Every Day Carry Weapon 🧰
-- `Laptop` - Lenovo ThinkPad T560
-  -  `CPU` - Intel® Core™ i5-6300U
+- `Laptop` - MSI Modern 14 B11SB
+  -  `CPU` - 11th Gen Intel(R) Core(TM) i5-1155G7 @ 2.50GHz
   -  `RAM` - 16GB
-  -  `GPU` - Intel® HD Graphics 520
-  -  `Operating System` - Windows 10 Pro 22H2
+  -  `GPU` - Intel(R) Iris(R) Xe Graphics & NVIDIA GeForce MX450
+  -  `Operating System` - Windows 11 Pro 24H2
   -  `Text Editor` - Visual Studio Code
